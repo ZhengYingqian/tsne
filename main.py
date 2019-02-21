@@ -249,6 +249,7 @@ def dataCal2():
              'part1_cyzd1_乳腺恶性肿瘤',
              'part1_cyzd1_乳腺腺病',
              'part1_cyzd1_浆细胞性乳腺炎',
+             'part1_cyzd1_others',
              'part1_mzfs_0102',
              'part1_mzfs_02',
              'part1_mzfs_0302',
